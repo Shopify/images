@@ -1,3 +1,4 @@
+/* eslint-disable shopify/strict-component-boundaries */
 import SVGO from 'svgo';
 import {svgOptions} from '../optimize';
 import {getFixture} from './helpers';
