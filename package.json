@@ -25,10 +25,10 @@
   },
   "devDependencies": {
     "babel-jest": "^20.0.3",
-    "babel-preset-shopify": "^16.0.2",
-    "eslint": "^3.19.0",
-    "eslint-plugin-shopify": "^16.0.0",
+    "babel-preset-shopify": "^16.5.0",
+    "eslint": "^5.4.0",
+    "eslint-plugin-shopify": "^24.0.0",
     "jest": "^20.0.4",
-    "svgo": "^0.7.2"
+    "svgo": "1.0.5"
   }
 }
