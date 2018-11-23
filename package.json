@@ -29,6 +29,6 @@
     "eslint": "^5.4.0",
     "eslint-plugin-shopify": "^24.0.0",
     "jest": "^20.0.4",
-    "svgo": "1.0.5"
+    "svgo": "^1.1.1"
   }
 }
